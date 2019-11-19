@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/day01_eesy_01jdbc/day01_eesy_01jdbc.iml" filepath="$PROJECT_DIR$/day01_eesy_01jdbc/day01_eesy_01jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01_eesy_03spring/day01_eesy_03spring.iml" filepath="$PROJECT_DIR$/day01_eesy_03spring/day01_eesy_03spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_eesy_04bean/day01_eesy_04bean.iml" filepath="$PROJECT_DIR$/day01_eesy_04bean/day01_eesy_04bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_eesy_05DI/day01_eesy_05DI.iml" filepath="$PROJECT_DIR$/day01_eesy_05DI/day01_eesy_05DI.iml" />
     </modules>
   </component>
 </project>

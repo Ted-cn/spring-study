@@ -8,11 +8,15 @@
         <outputRelativeToContentRoot value="true" />
         <module name="day01_eesy_01jdbc" />
         <module name="day01_eesy_03spring" />
+        <module name="day01_eesy_04bean" />
+        <module name="day01_eesy_05DI" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="day01_eesy_01jdbc" target="8" />
-      <module name="day01_eesy_03spring" target="1.5" />
+      <module name="day01_eesy_01jdbc" target="1.8" />
+      <module name="day01_eesy_03spring" target="1.8" />
+      <module name="day01_eesy_04bean" target="1.8" />
+      <module name="day01_eesy_05DI" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

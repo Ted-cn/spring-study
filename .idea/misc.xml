@@ -4,6 +4,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/day01_eesy_03spring/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_eesy_04bean/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_eesy_01jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_eesy_05DI/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,7 +1,5 @@
 package com.cui.service.impl;
 
-import com.cui.dao.IAccountDao;
-import com.cui.dao.impl.AccountDao;
 import com.cui.service.IAccountService;
 
 /**
@@ -9,13 +7,15 @@ import com.cui.service.IAccountService;
  */
 public class AccountService implements IAccountService {
 
-    private IAccountDao accountDao = new AccountDao();
-
     public AccountService() {
         System.out.println("对象创建了");
     }
 
     public void save() {
-        accountDao.save();
+        System.out.println("save方法执行了");
+    }
+
+    public void init() {
+
     }
 }
