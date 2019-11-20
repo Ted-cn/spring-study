@@ -59,4 +59,43 @@
         <property name="age" value="18"></property>
         <property name="birthday" ref="now"></property>
     </bean>
+
+    <!-- 复杂类型的注入/集合类型的注入
+        用于给List结构集合注入的标签：list array set
+        用于个Map结构集合注入的标签：map props
+        结构相同，标签可以互换
+    -->
+    <bean id="accountService3" class="com.cui.service.impl.AccountService3" scope="singleton">
+        <property name="array">
+            <array>
+                <value>1</value>
+                <value>2</value>
+                <value>3</value>
+            </array>
+        </property>
+        <property name="list">
+            <list>
+                <value>1</value>
+                <value>2</value>
+                <value>3</value>
+            </list>
+        </property>
+        <property name="set">
+            <set>
+                <value>1</value>
+                <value>2</value>
+                <value>3</value>
+            </set>
+        </property>
+        <property name="map">
+            <map>
+                <entry key="1" value="2"></entry>
+            </map>
+        </property>
+        <property name="properties">
+            <props>
+                <prop key="1">2</prop>
+            </props>
+        </property>
+    </bean>
 </beans>
