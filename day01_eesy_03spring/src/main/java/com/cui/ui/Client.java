@@ -12,7 +12,6 @@ import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
 
 public class Client {
-
     /**
      * 获取spring的IOC核心容器，并根据id获取对象
      * ApplicationContext的三个常用实现类：
@@ -39,6 +38,7 @@ public class Client {
 
         accountService = ac.getBean("accountService", AccountService.class);
         System.out.println(accountService);
+<<<<<<< HEAD
 
         Resource resource = new ClassPathResource("bean.xml");
         BeanFactory beanFactory = new XmlBeanFactory(resource);
@@ -46,5 +46,7 @@ public class Client {
 
         //XmlBeanFactory beanFactory = new ClassPathXmlApplicationContext();
 
+=======
+>>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
     }
 }
