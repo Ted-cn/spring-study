@@ -38,15 +38,12 @@ public class Client {
 
         accountService = ac.getBean("accountService", AccountService.class);
         System.out.println(accountService);
-<<<<<<< HEAD
+
 
         Resource resource = new ClassPathResource("bean.xml");
         BeanFactory beanFactory = new XmlBeanFactory(resource);
         IAccountService accountService1 = beanFactory.getBean("accountService", AccountService.class);
 
         //XmlBeanFactory beanFactory = new ClassPathXmlApplicationContext();
-
-=======
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
     }
 }
