@@ -11,7 +11,11 @@
         <module name="day01_eesy_04bean" />
         <module name="day01_eesy_05DI" />
         <module name="day02_eesy_01anno_ioc" />
+        <module name="day02_eesy_02account_xmlioc" />
+        <module name="day02_eesy_03account_annoioc" />
         <module name="day02_eesy_04account_annoico_withoutxml" />
+        <module name="day03_eesy_01account" />
+        <module name="day03_eesy_02proxy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,7 +24,11 @@
       <module name="day01_eesy_04bean" target="1.8" />
       <module name="day01_eesy_05DI" target="1.8" />
       <module name="day02_eesy_01anno_ioc" target="1.8" />
+      <module name="day02_eesy_02account_xmlioc" target="1.8" />
+      <module name="day02_eesy_03account_annoioc" target="1.8" />
       <module name="day02_eesy_04account_annoico_withoutxml" target="1.8" />
+      <module name="day03_eesy_01account" target="1.8" />
+      <module name="day03_eesy_02proxy" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

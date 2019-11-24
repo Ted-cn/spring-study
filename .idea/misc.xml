@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="Spring" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -9,6 +12,10 @@
         <option value="$PROJECT_DIR$/day01_eesy_05DI/pom.xml" />
         <option value="$PROJECT_DIR$/day02_eesy_01anno_ioc/pom.xml" />
         <option value="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_eesy_02account_xmlioc/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_eesy_03account_annoioc/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_eesy_01account/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_eesy_02proxy/pom.xml" />
       </list>
     </option>
   </component>

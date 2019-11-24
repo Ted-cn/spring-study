@@ -1,46 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e11b910-fcf5-4701-a75c-b6747baac962" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01_eesy_05DI/src/main/java/com/cui/service/impl/AccountService3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_01anno_ioc/day02_eesy_01anno_ioc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_01anno_ioc/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/dao/IAccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/dao/impl/AccountDao1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/dao/impl/AccountDao2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/service/IAccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/service/impl/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/ui/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/resources/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/day02_eesy_04account_annoico_withoutxml.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/config/SpringConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/dao/IAccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/dao/impl/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/service/IAccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/service/impl/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/ui/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/resources/info.properties" afterDir="false" />
+    <list default="true" id="c2118f4e-1f19-4e8c-8bb9-f42f2adf56fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbutils_commons_dbutils_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_02account_xmlioc/day02_eesy_02account_xmlioc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_02account_xmlioc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_02account_xmlioc/src/main/java/com/cui/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_02account_xmlioc/src/main/java/com/cui/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_02account_xmlioc/src/main/java/com/cui/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_02account_xmlioc/src/main/java/com/cui/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_02account_xmlioc/src/main/java/com/cui/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_02account_xmlioc/src/test/java/com/cui/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_03account_annoioc/day02_eesy_03account_annoioc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_03account_annoioc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_03account_annoioc/src/main/java/com/cui/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_03account_annoioc/src/main/java/com/cui/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_03account_annoioc/src/main/java/com/cui/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_03account_annoioc/src/main/java/com/cui/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_03account_annoioc/src/main/java/com/cui/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_03account_annoioc/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_03account_annoioc/src/test/java/com/cui/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/config/JdbcConfiguraiton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/test/java/com/cui/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_01account/day03_eesy_01account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_01account/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/factory/BeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/service/impl/AccountServiceImpl_old.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/utils/ConnectUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/utils/TransactionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_01account/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_01account/src/test/java/com/cui/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_02proxy/day03_eesy_02proxy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_02proxy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_02proxy/src/main/java/com/cui/cglib/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_02proxy/src/main/java/com/cui/cglib/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_02proxy/src/main/java/com/cui/proxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_02proxy/src/main/java/com/cui/proxy/IProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03_eesy_02proxy/src/main/java/com/cui/proxy/Producer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01_eesy_01jdbc/target/classes/com/cui/dao/IAccountDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01_eesy_01jdbc/target/classes/com/cui/dao/impl/AccountDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01_eesy_01jdbc/target/classes/com/cui/factory/BeanFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01_eesy_01jdbc/target/classes/com/cui/jdbc/JdbcDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01_eesy_01jdbc/target/classes/com/cui/service/IAccountService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01_eesy_01jdbc/target/classes/com/cui/service/impl/AccountService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01_eesy_01jdbc/target/classes/com/cui/ui/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01_eesy_05DI/src/main/java/com/cui/ui/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01_eesy_05DI/src/main/java/com/cui/ui/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01_eesy_05DI/src/main/resources/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day01_eesy_05DI/src/main/resources/bean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01_eesy_05DI/target/classes/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day01_eesy_05DI/target/classes/bean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01_eesy_05DI/target/classes/com/cui/ui/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/day01_eesy_05DI/target/classes/com/cui/ui/Client.class" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01_eesy_03spring/src/main/resources/springNote.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_0_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_0_RELEASE.xml" afterDir="false" />
@@ -48,102 +62,131 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_0_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_0_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01_eesy_03spring/day01_eesy_03spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day01_eesy_03spring/day01_eesy_03spring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01_eesy_03spring/src/main/java/com/cui/ui/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01_eesy_03spring/src/main/java/com/cui/ui/Client.java" afterDir="false" />
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
+      <change beforePath="$PROJECT_DIR$/day01_eesy_01jdbc/day01_eesy_03spring.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/jdbc/JdbcDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/jdbc/JdbcDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_eesy_03spring/target/classes/com/cui/dao/IAccountDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/day01_eesy_03spring/target/classes/com/cui/dao/IAccountDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_eesy_03spring/target/classes/com/cui/dao/impl/AccountDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/day01_eesy_03spring/target/classes/com/cui/dao/impl/AccountDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_eesy_03spring/target/classes/com/cui/service/IAccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/day01_eesy_03spring/target/classes/com/cui/service/IAccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_eesy_03spring/target/classes/com/cui/service/impl/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/day01_eesy_03spring/target/classes/com/cui/service/impl/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_eesy_03spring/target/classes/com/cui/ui/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/day01_eesy_03spring/target/classes/com/cui/ui/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_01anno_ioc/target/classes/META-INF/day02_eesy_01anno_ioc.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_01anno_ioc/target/classes/com/cui/service/impl/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_01anno_ioc/target/classes/com/cui/service/impl/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/day02_eesy_04account_annoico_withoutxml.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/day02_eesy_04account_annoico_withoutxml.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/config/SpringConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/config/SpringConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/dao/IAccountDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/dao/IAccountDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/dao/impl/AccountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/service/IAccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/service/IAccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/service/impl/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/ui/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/resources/info.properties" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_02account_xmlioc/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/target/classes/com/cui/config/SpringConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/target/classes/com/cui/config/SpringConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/target/classes/com/cui/dao/IAccountDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/target/classes/com/cui/dao/IAccountDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/target/classes/com/cui/dao/impl/AccountDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/target/classes/com/cui/service/IAccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/target/classes/com/cui/service/IAccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/target/classes/com/cui/service/impl/AccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/target/classes/com/cui/ui/Client.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/day01_eesy_01jdbc/target/" />
-    <ignored path="$PROJECT_DIR$/day01_eesy_03spring/target/" />
-    <ignored path="$PROJECT_DIR$/day01_eesy_04bean/target/" />
     <ignored path="$PROJECT_DIR$/day01_eesy_05DI/target/" />
-    <ignored path="$PROJECT_DIR$/day02_eesy_01anno_ioc/target/" />
+    <ignored path="$PROJECT_DIR$/day01_eesy_04bean/target/" />
     <ignored path="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/target/" />
+    <ignored path="$PROJECT_DIR$/day02_eesy_01anno_ioc/target/" />
+    <ignored path="$PROJECT_DIR$/day01_eesy_03spring/target/" />
+    <ignored path="$PROJECT_DIR$/day02_eesy_02account_xmlioc/target/" />
+    <ignored path="$PROJECT_DIR$/day02_eesy_03account_annoioc/target/" />
+    <ignored path="$PROJECT_DIR$/day03_eesy_01account/target/" />
+    <ignored path="$PROJECT_DIR$/day03_eesy_02proxy/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/dao/impl/AccountDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/service/impl/AccountService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1301">
-              <caret line="63" column="35" lean-forward="true" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
-=======
-        <entry file="file://$PROJECT_DIR$/day01_eesy_03spring/src/main/java/com/cui/dao/impl/AccountDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="9" column="35" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="35" />
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/ui/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="170">
-              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-=======
-            <state relative-caret-position="132">
-              <caret line="6" column="81" lean-forward="true" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day01_eesy_03spring/src/main/resources/springNote.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="60" lean-forward="true" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day01_eesy_03spring/src/main/java/com/cui/dao/IAccountDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/config/SpringConfiguration.java">
+        <entry file="file://$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/service/impl/AccountServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="-29">
-              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-=======
-            <state relative-caret-position="374">
-              <caret line="20" column="72" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="72" />
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
+            <state relative-caret-position="524">
+              <caret line="47" column="51" lean-forward="true" selection-start-line="47" selection-start-column="51" selection-end-line="47" selection-end-column="51" />
+              <folding>
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/service/impl/AccountServiceImpl_old.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day03_eesy_01account/src/test/java/com/cui/AccountTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+              <folding>
+                <element signature="e#747#748#0" expanded="true" />
+                <element signature="e#806#807#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day03_eesy_01account/src/main/resources/bean.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/factory/BeanFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#642#643#0" expanded="true" />
-                <element signature="e#683#684#0" expanded="true" />
-                <element signature="e#841#842#0" expanded="true" />
-                <element signature="e#880#881#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day03_eesy_02proxy/src/main/java/com/cui/proxy/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -154,77 +197,77 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Connection getConnection</find>
-      <find>init</find>
-      <find>public Date(</find>
+      <find>@I</find>
+      <find>prototype</find>
+      <find>AnnotationConfigApplicationContext</find>
+      <find>QueryRunner</find>
+      <find>&quot;</find>
+      <find>dataSource</find>
+      <find>proxy</find>
+      <find>producer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/jdbc/JdbcDemo1.java" />
-        <option value="$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/service/IAccountService.java" />
-        <option value="$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/dao/IAccountDao.java" />
-        <option value="$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/dao/impl/AccountDao.java" />
-        <option value="$PROJECT_DIR$/day01_eesy_01jdbc/src/main/resources/bean.properties" />
-        <option value="$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/service/impl/AccountService.java" />
-        <option value="$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/ui/Client.java" />
-        <option value="$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/factory/BeanFactory.java" />
-        <option value="$PROJECT_DIR$/day01_eesy_03spring/src/main/java/com/cui/dao/impl/AccountDao.java" />
-        <option value="$PROJECT_DIR$/day01_eesy_03spring/src/main/resources/bean.xml" />
-        <option value="$PROJECT_DIR$/day01_eesy_03spring/src/main/java/com/cui/service/impl/AccountService.java" />
-        <option value="$PROJECT_DIR$/day01_eesy_03spring/src/main/java/com/cui/ui/Client.java" />
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/day01_eesy_04bean/src/main/java/com/cui/factory/InstanceFactory.java" />
-        <option value="$PROJECT_DIR$/day01_eesy_04bean/src/main/java/com/cui/factory/StaticFactory.java" />
-        <option value="$PROJECT_DIR$/day01_eesy_04bean/pom.xml" />
-        <option value="$PROJECT_DIR$/day01_eesy_03spring/pom.xml" />
-        <option value="$PROJECT_DIR$/day01_eesy_01jdbc/pom.xml" />
-        <option value="$PROJECT_DIR$/day01_eesy_04bean/src/main/java/com/cui/ui/Client.java" />
-        <option value="$PROJECT_DIR$/day01_eesy_04bean/src/main/java/com/cui/service/impl/AccountService.java" />
-        <option value="$PROJECT_DIR$/day01_eesy_04bean/src/main/resources/bean.xml" />
-        <option value="$PROJECT_DIR$/day01_eesy_05DI/pom.xml" />
-        <option value="$PROJECT_DIR$/day01_eesy_05DI/src/main/java/com/cui/service/impl/AccountService.java" />
-        <option value="$PROJECT_DIR$/day01_eesy_05DI/src/main/java/com/cui/service/impl/AccountService2.java" />
-        <option value="$PROJECT_DIR$/day01_eesy_05DI/src/main/java/com/cui/service/impl/AccountService3.java" />
-        <option value="$PROJECT_DIR$/day01_eesy_05DI/src/main/resources/bean.xml" />
-        <option value="$PROJECT_DIR$/day01_eesy_05DI/src/main/java/com/cui/ui/Client.java" />
-        <option value="$PROJECT_DIR$/day02_eesy_01anno_ioc/pom.xml" />
-        <option value="$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/resources/bean.xml" />
-        <option value="$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/service/IAccountService.java" />
-        <option value="$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/ui/Client.java" />
-        <option value="$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/dao/impl/AccountDao.java" />
-        <option value="$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/dao/impl/AccountDao2.java" />
-        <option value="$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/service/impl/AccountService.java" />
-        <option value="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/pom.xml" />
-        <option value="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/dao/impl/AccountDao1.java" />
-        <option value="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/config/SpringConfiguration.java" />
-        <option value="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/dao/impl/AccountDao.java" />
-        <option value="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/service/impl/AccountService.java" />
-        <option value="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/ui/Client.java" />
+        <option value="$PROJECT_DIR$/day02_eesy_02account_xmlioc/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_eesy_02account_xmlioc/src/main/java/com/cui/service/IAccountService.java" />
+        <option value="$PROJECT_DIR$/day02_eesy_02account_xmlioc/src/main/java/com/cui/dao/IAccountDao.java" />
+        <option value="$PROJECT_DIR$/day02_eesy_02account_xmlioc/src/main/java/com/cui/domain/Account.java" />
+        <option value="$PROJECT_DIR$/day02_eesy_02account_xmlioc/src/main/java/com/cui/dao/impl/AccountDaoImpl.java" />
+        <option value="$PROJECT_DIR$/day02_eesy_02account_xmlioc/src/main/java/com/cui/service/impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/day02_eesy_02account_xmlioc/src/main/resources/beans.xml" />
+        <option value="$PROJECT_DIR$/day02_eesy_02account_xmlioc/src/test/java/com/cui/test.java" />
+        <option value="$PROJECT_DIR$/day02_eesy_03account_annoioc/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_eesy_03account_annoioc/src/main/java/com/cui/service/impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/day02_eesy_03account_annoioc/src/main/java/com/cui/dao/impl/AccountDaoImpl.java" />
+        <option value="$PROJECT_DIR$/day02_eesy_03account_annoioc/src/test/java/com/cui/test.java" />
+        <option value="$PROJECT_DIR$/day02_eesy_03account_annoioc/src/main/resources/beans.xml" />
+        <option value="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/test/java/com/cui/test.java" />
+        <option value="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/resources/jdbcConfig.properties" />
         <option value="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/config/SpringConfiguration.java" />
-=======
-        <option value="$PROJECT_DIR$/day01_eesy_03spring/src/main/resources/springNote.txt" />
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
+        <option value="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/config/JdbcConfiguraiton.java" />
+        <option value="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/test/java/com/cui/AccountServiceTest.java" />
+        <option value="$PROJECT_DIR$/day03_eesy_01account/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_eesy_01account/src/test/java/com/cui/TestDemo.java" />
+        <option value="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/service/IAccountService.java" />
+        <option value="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/dao/IAccountDao.java" />
+        <option value="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/utils/TransactionManager.java" />
+        <option value="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/utils/ConnectUtils.java" />
+        <option value="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/dao/impl/AccountDaoImpl.java" />
+        <option value="$PROJECT_DIR$/day03_eesy_02proxy/src/main/java/com/cui/proxy/IProducer.java" />
+        <option value="$PROJECT_DIR$/day03_eesy_02proxy/src/main/java/com/cui/proxy/Producer.java" />
+        <option value="$PROJECT_DIR$/day03_eesy_02proxy/src/main/java/com/cui/proxy/Client.java" />
+        <option value="$PROJECT_DIR$/day03_eesy_02proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_eesy_02proxy/src/main/java/com/cui/cglib/Producer.java" />
+        <option value="$PROJECT_DIR$/day03_eesy_02proxy/src/main/java/com/cui/cglib/Client.java" />
+        <option value="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/service/impl/AccountServiceImpl_old.java" />
+        <option value="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/factory/BeanFactory.java" />
+        <option value="$PROJECT_DIR$/day03_eesy_01account/src/test/java/com/cui/AccountTest.java" />
+        <option value="$PROJECT_DIR$/day03_eesy_01account/src/main/resources/bean.xml" />
+        <option value="$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/service/impl/AccountServiceImpl.java" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\repository" />
-        <option name="mavenHome" value="D:/Program Files/Maven3.3.9" />
-        <option name="userSettingsFile" value="D:\Program Files\Maven3.3.9\conf\settings.xml" />
+        <option name="localRepository" value="E:\repository" />
+        <option name="mavenHome" value="D:/DevolopSoftware/Maven3.3.9" />
+        <option name="userSettingsFile" value="D:\DevolopSoftware\Maven3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -232,41 +275,25 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="jdk-1.8" />
+      </list>
+    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-<<<<<<< HEAD
-          <item name="day02_eesy_04account_annoico_withoutxml" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-=======
-          <item name="day01_eesy_03spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="day01_eesy_03spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
-<<<<<<< HEAD
-  <component name="ProjectFrameBounds">
-    <option name="x" value="326" />
-    <option name="y" value="105" />
-    <option name="width" value="1371" />
-    <option name="height" value="741" />
-=======
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-5" />
-    <option name="width" value="1551" />
-    <option name="height" value="726" />
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
+    <option name="x" value="88" />
+    <option name="y" value="92" />
+    <option name="width" value="1692" />
+    <option name="height" value="1010" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -280,29 +307,29 @@
           <expand>
             <path>
               <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day02_eesy_04account_annoico_withoutxml" type="462c0819:PsiDirectoryNode" />
+              <item name="day03_eesy_01account" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day02_eesy_04account_annoico_withoutxml" type="462c0819:PsiDirectoryNode" />
+              <item name="day03_eesy_01account" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day02_eesy_04account_annoico_withoutxml" type="462c0819:PsiDirectoryNode" />
+              <item name="day03_eesy_01account" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day02_eesy_04account_annoico_withoutxml" type="462c0819:PsiDirectoryNode" />
+              <item name="day03_eesy_01account" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day02_eesy_04account_annoico_withoutxml" type="462c0819:PsiDirectoryNode" />
+              <item name="day03_eesy_01account" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -310,68 +337,164 @@
             </path>
             <path>
               <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day02_eesy_04account_annoico_withoutxml" type="462c0819:PsiDirectoryNode" />
+              <item name="day03_eesy_01account" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day03_eesy_01account" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="cui" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day02_eesy_04account_annoico_withoutxml" type="462c0819:PsiDirectoryNode" />
+              <item name="day03_eesy_01account" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="cui" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-=======
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day03_eesy_01account" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cui" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day03_eesy_01account" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day03_eesy_01account" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day03_eesy_01account" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day03_eesy_01account" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day03_eesy_01account" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day03_eesy_01account" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day03_eesy_02proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day03_eesy_02proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day03_eesy_02proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day03_eesy_02proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day03_eesy_02proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day03_eesy_02proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day03_eesy_02proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cui" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-<<<<<<< HEAD
-      <pane id="Scope" />
-=======
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574265321655" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574614446814" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-<<<<<<< HEAD
     <property name="project.structure.last.edited" value="Modules" />
-=======
-    <property name="project.structure.last.edited" value="Libraries" />
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.cui.dao.impl" />
       <recent name="com.cui.service.impl" />
-      <recent name="com.cui.factory" />
+      <recent name="com.cui" />
+      <recent name="com.cui.domain" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\git-workspace\spring-study\day02_eesy_04account_annoico_withoutxml\src\main\java" />
-      <recent name="E:\git-workspace\spring-study\day02_eesy_01anno_ioc\src\main\resources" />
-      <recent name="E:\git-workspace\spring-study\day02_eesy_01anno_ioc\src\main\java" />
-      <recent name="E:\git-workspace\spring-study\day01_eesy_05DI\src\main\resources" />
-      <recent name="E:\git-workspace\spring-study\day01_eesy_05DI\src\main\java" />
+      <recent name="E:\git-workspace\spring-study\day03_eesy_02proxy\src\main\java\com\cui\cglib" />
+      <recent name="E:\git-workspace\spring-study\day03_eesy_01account\src\main\resources" />
+      <recent name="E:\git-workspace\spring-study\day03_eesy_01account\src\main\java" />
+      <recent name="E:\git-workspace\spring-study\day02_eesy_04account_annoico_withoutxml\src\main\java\com\cui" />
+      <recent name="E:\git-workspace\spring-study\day02_eesy_03account_annoioc\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -386,37 +509,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.ui.Client" />
-      <module name="day02_eesy_04account_annoico_withoutxml" />
+  <component name="RunManager">
+    <configuration name="AccountTest.testTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day03_eesy_01account" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cui.ui.*" />
+          <option name="PATTERN" value="com.cui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.ui.Client" />
-      <module name="day02_eesy_01anno_ioc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.ui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="com.cui" />
+      <option name="MAIN_CLASS_NAME" value="com.cui.AccountTest" />
+      <option name="METHOD_NAME" value="testTransfer" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="JUnit.AccountTest.testTransfer" />
       </list>
     </recent_temporary>
   </component>
@@ -425,687 +537,245 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1e11b910-fcf5-4701-a75c-b6747baac962" name="Default Changelist" comment="" />
-      <created>1574088492253</created>
+      <changelist id="c2118f4e-1f19-4e8c-8bb9-f42f2adf56fc" name="Default Changelist" comment="" />
+      <created>1574578096531</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574088492253</updated>
-      <workItem from="1574088493632" duration="1420000" />
-<<<<<<< HEAD
-      <workItem from="1574090294224" duration="8696000" />
-      <workItem from="1574169680305" duration="11177000" />
-      <workItem from="1574256330758" duration="1763000" />
-      <workItem from="1574258433625" duration="172000" />
-      <workItem from="1574258632738" duration="7038000" />
-=======
-      <workItem from="1574090294224" duration="8285000" />
-      <workItem from="1574142629352" duration="3413000" />
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
+      <updated>1574578096531</updated>
+      <workItem from="1574578098288" duration="21767000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="AccountTest_testTransfer - 2019.11.24 at 23h 07m 40s.xml">
+      <configuration name="AccountTest.testTransfer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountTest_testTransfer - 2019.11.24 at 23h 07m 54s.xml">
+      <configuration name="AccountTest.testTransfer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountTest_testTransfer - 2019.11.24 at 23h 08m 35s.xml">
+      <configuration name="AccountTest.testTransfer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountTest_testTransfer - 2019.11.24 at 23h 09m 28s.xml">
+      <configuration name="AccountTest.testTransfer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountTest_testTransfer - 2019.11.24 at 23h 14m 41s.xml">
+      <configuration name="AccountTest.testTransfer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountTest_testTransfer - 2019.11.24 at 23h 15m 28s.xml">
+      <configuration name="AccountTest.testTransfer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountTest_testTransfer - 2019.11.24 at 23h 15m 43s.xml">
+      <configuration name="AccountTest.testTransfer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountTest_testTransfer - 2019.11.24 at 23h 16m 06s.xml">
+      <configuration name="AccountTest.testTransfer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountTest_testTransfer - 2019.11.25 at 00h 53m 20s.xml">
+      <configuration name="AccountTest.testTransfer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountTest_testTransfer - 2019.11.25 at 00h 53m 56s.xml">
+      <configuration name="AccountTest.testTransfer" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="30266000" />
+    <option name="totallyTimeSpent" value="21767000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="326" y="105" width="1371" height="741" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29061785" />
-=======
-    <option name="totallyTimeSpent" value="13118000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22493573" />
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20469083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-<<<<<<< HEAD
-=======
-      <window_info anchor="bottom" id="Statistic" />
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.329718" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3970346" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44685465" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32990867" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.54121476" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40347072" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.345987" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="right" id="Maven" weight="0.22921109" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" weight="0.32942432" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-<<<<<<< HEAD
-      <window_info anchor="right" id="Maven" order="1" weight="0.15671642" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-=======
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32969153" />
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.20401554" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.54772234" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.62689805" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.22921109" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32942432" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>connectUtils.getThreadConnection()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new ClassPathXmlApplicationContext(&quot;beans.xml&quot;).getBean(&quot;accountService&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new ClassPathXmlApplicationContext(&quot;beans.xml&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new ClassPathXmlApplicationContext(&quot;beans.xml&quot;).getBean(&quot;accountService1&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-=======
-    <entry file="jar://E:/repository/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar!/com/mysql/jdbc/Driver.class" />
-    <entry file="file://$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/jdbc/JdbcDemo1.java">
+    <entry file="file://$PROJECT_DIR$/day02_eesy_02account_xmlioc/src/main/java/com/cui/dao/impl/AccountDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        <state relative-caret-position="87">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/sql/DriverManager.java" />
-    <entry file="file://$PROJECT_DIR$/day01_eesy_01jdbc/pom.xml">
+    <entry file="file://$PROJECT_DIR$/day02_eesy_03account_annoioc/src/main/java/com/cui/domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_02account_xmlioc/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
+        <state relative-caret-position="121">
+          <caret line="13" column="17" selection-start-line="10" selection-start-column="4" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="n#dependencies#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_03account_annoioc/src/main/java/com/cui/service/IAccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_03account_annoioc/src/main/java/com/cui/dao/IAccountDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_03account_annoioc/src/main/java/com/cui/dao/impl/AccountDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/dao/IAccountDao.java">
+    <entry file="file://$PROJECT_DIR$/day02_eesy_03account_annoioc/src/main/java/com/cui/service/impl/AccountServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="319">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/service/IAccountService.java">
+    <entry file="file://$PROJECT_DIR$/day02_eesy_03account_annoioc/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
+        <state relative-caret-position="348">
+          <caret line="41" column="19" selection-start-line="15" selection-start-column="4" selection-end-line="41" selection-end-column="19" />
+          <folding>
+            <element signature="n#properties#0;n#project#0;n#!!top" />
+            <element signature="n#dependencies#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/service/impl/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1051">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/ui/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_01jdbc/src/main/resources/bean.properties">
+    <entry file="file://$PROJECT_DIR$/day02_eesy_03account_annoioc/src/test/java/com/cui/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/service/impl/AccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/ui/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="274">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/factory/BeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#941#942#0" expanded="true" />
-            <element signature="e#968#969#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_03spring/src/main/java/com/cui/jdbc/JdbcDemo1.java" />
-    <entry file="file://$PROJECT_DIR$/day01_eesy_03spring/src/main/java/com/cui/factory/BeanFactory.java" />
-    <entry file="file://$PROJECT_DIR$/day01_eesy_03spring/src/main/java/com/cui/service/IAccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_03spring/src/main/java/com/cui/service/impl/AccountService.java">
+    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/domain/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://MAVEN/com.cui:day01_eesy_03spring:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.cui:day01_eesy_03spring:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">com.cui:day01_eesy_03spring:1.0-SNAPSHOT</node>
-            <node x="" y="">org.springframework:spring-context:jar:5.2.0.RELEASE</node>
-            <node x="" y="">org.springframework:spring-context:jar:5.2.0.RELEASE/org.springframework:spring-aop:jar:5.2.0.RELEASE</node>
-            <node x="" y="">org.springframework:spring-context:jar:5.2.0.RELEASE/org.springframework:spring-beans:jar:5.2.0.RELEASE</node>
-            <node x="" y="">org.springframework:spring-context:jar:5.2.0.RELEASE/org.springframework:spring-core:jar:5.2.0.RELEASE</node>
-            <node x="" y="">org.springframework:spring-context:jar:5.2.0.RELEASE/org.springframework:spring-core:jar:5.2.0.RELEASE/org.springframework:spring-jcl:jar:5.2.0.RELEASE</node>
-            <node x="" y="">org.springframework:spring-context:jar:5.2.0.RELEASE/org.springframework:spring-expression:jar:5.2.0.RELEASE</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="141.0" y="218.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
-    <entry file="uml://JAVA/org.springframework.context.ApplicationContext">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>org.springframework.context.ApplicationContext</OriginalElement>
-          <nodes>
-            <node x="213.0" y="81.0">org.springframework.beans.factory.HierarchicalBeanFactory</node>
-            <node x="811.0" y="0.0">java.lang.FunctionalInterface</node>
-            <node x="25.0" y="0.0">org.springframework.core.io.ResourceLoader</node>
-            <node x="345.17500000000007" y="0.0">org.springframework.beans.factory.BeanFactory</node>
-            <node x="603.0" y="81.0">org.springframework.core.env.EnvironmentCapable</node>
-            <node x="791.0" y="81.0">org.springframework.context.ApplicationEventPublisher</node>
-            <node x="0.0" y="81.0">org.springframework.core.io.support.ResourcePatternResolver</node>
-            <node x="515.75" y="172.0">org.springframework.context.ApplicationContext</node>
-            <node x="420.0" y="81.0">org.springframework.beans.factory.ListableBeanFactory</node>
-            <node x="1008.0" y="81.0">org.springframework.context.MessageSource</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.core.env.EnvironmentCapable">
-              <point x="13.083333333333371" y="-15.5" />
-              <point x="607.3333333333334" y="132.0" />
-              <point x="687.0" y="132.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="org.springframework.core.io.support.ResourcePatternResolver" target="org.springframework.core.io.ResourceLoader">
-              <point x="0.0" y="-15.5" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.beans.factory.HierarchicalBeanFactory">
-              <point x="-39.25" y="-15.5" />
-              <point x="555.0" y="142.0" />
-              <point x="306.5" y="142.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="org.springframework.beans.factory.HierarchicalBeanFactory" target="org.springframework.beans.factory.BeanFactory">
-              <point x="0.0" y="-15.5" />
-              <point x="306.5" y="56.0" />
-              <point x="374.92500000000007" y="56.0" />
-              <point x="-29.75" y="15.5" />
-            </edge>
-            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.context.ApplicationEventPublisher">
-              <point x="39.25" y="-15.5" />
-              <point x="633.5" y="142.0" />
-              <point x="889.5" y="142.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.context.MessageSource">
-              <point x="65.41666666666663" y="-15.5" />
-              <point x="659.6666666666666" y="152.0" />
-              <point x="1078.5" y="152.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.beans.factory.ListableBeanFactory">
-              <point x="-13.083333333333371" y="-15.5" />
-              <point x="581.1666666666666" y="132.0" />
-              <point x="501.5" y="132.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="org.springframework.beans.factory.ListableBeanFactory" target="org.springframework.beans.factory.BeanFactory">
-              <point x="0.0" y="-15.5" />
-              <point x="501.5" y="56.0" />
-              <point x="434.42500000000007" y="56.0" />
-              <point x="29.75" y="15.5" />
-            </edge>
-            <edge source="org.springframework.context.ApplicationEventPublisher" target="java.lang.FunctionalInterface">
-              <point x="0.0" y="-15.5" />
-              <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="org.springframework.context.ApplicationContext" target="org.springframework.core.io.support.ResourcePatternResolver">
-              <point x="-65.41666666666669" y="-15.5" />
-              <point x="528.8333333333333" y="152.0" />
-              <point x="96.5" y="152.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="88.0" y="56.0" />
-          <SelectedNodes>
-            <node>org.springframework.beans.factory.BeanFactory</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/repository/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE.jar!/org/springframework/beans/factory/BeanFactory.class" />
-    <entry file="file://$PROJECT_DIR$/day01_eesy_01jdbc/target/classes/com/cui/jdbc/JdbcDemo1.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#853#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/dao/impl/AccountDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_03spring/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_03spring/src/main/java/com/cui/dao/impl/AccountDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_03spring/src/main/resources/bean.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="81" lean-forward="true" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_03spring/src/main/resources/springNote.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="60" lean-forward="true" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_03spring/src/main/java/com/cui/dao/IAccountDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_03spring/src/main/java/com/cui/service/impl/AccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_01jdbc/src/main/java/com/cui/factory/BeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="25" column="39" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/org.springframework.beans.factory.xml.XmlBeanFactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>org.springframework.beans.factory.xml.XmlBeanFactory</OriginalElement>
-          <nodes>
-            <node x="" y="">org.springframework.beans.factory.HierarchicalBeanFactory</node>
-            <node x="" y="">org.springframework.core.SimpleAliasRegistry</node>
-            <node x="" y="">org.springframework.beans.factory.support.DefaultSingletonBeanRegistry</node>
-            <node x="" y="">org.springframework.beans.factory.config.SingletonBeanRegistry</node>
-            <node x="" y="">java.lang.Deprecated</node>
-            <node x="" y="">org.springframework.beans.factory.config.AutowireCapableBeanFactory</node>
-            <node x="" y="">org.springframework.beans.factory.support.BeanDefinitionRegistry</node>
-            <node x="" y="">org.springframework.beans.factory.config.ConfigurableListableBeanFactory</node>
-            <node x="" y="">java.io.Serializable</node>
-            <node x="" y="">org.springframework.beans.factory.support.FactoryBeanRegistrySupport</node>
-            <node x="" y="">org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory</node>
-            <node x="" y="">org.springframework.core.AliasRegistry</node>
-            <node x="" y="">org.springframework.beans.factory.support.AbstractBeanFactory</node>
-            <node x="" y="">org.springframework.beans.factory.BeanFactory</node>
-            <node x="" y="">org.springframework.beans.factory.support.DefaultListableBeanFactory</node>
-            <node x="" y="">org.springframework.beans.factory.config.ConfigurableBeanFactory</node>
-            <node x="" y="">org.springframework.beans.factory.ListableBeanFactory</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0189233278955954" x="516.0" y="226.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/repository/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE.jar!/org/springframework/beans/factory/xml/XmlBeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_03spring/src/main/java/com/cui/service/IAccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_03spring/src/main/java/com/cui/ui/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="156">
-          <caret line="44" column="77" selection-start-line="44" selection-start-column="77" selection-end-line="44" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_04bean/src/main/java/com/cui/dao/IAccountDao.java" />
-    <entry file="file://$PROJECT_DIR$/day01_eesy_04bean/src/main/java/com/cui/dao/impl/AccountDao.java" />
-    <entry file="file://$PROJECT_DIR$/day01_eesy_04bean/src/main/java/com/cui/factory/StaticFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_04bean/src/main/java/com/cui/factory/InstanceFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_01jdbc/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_03spring/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_04bean/src/main/java/com/cui/ui/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_04bean/src/main/java/com/cui/service/impl/AccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-241">
-          <caret line="193" column="22" selection-start-line="193" selection-start-column="18" selection-end-line="193" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_04bean/src/main/java/com/cui/service/IAccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_04bean/src/main/resources/bean.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_04bean/pom.xml">
+    <entry file="jar://E:/repository/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2-sources.jar!/com/mchange/v2/c3p0/ComboPooledDataSource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_05DI/src/main/java/com/cui/factory/InstanceFactory.java" />
-    <entry file="file://$PROJECT_DIR$/day01_eesy_05DI/src/main/java/com/cui/factory/StaticFactory.java" />
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="195" column="16" selection-start-line="195" selection-start-column="4" selection-end-line="195" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_05DI/src/main/java/com/cui/service/impl/AccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#894#895#0" expanded="true" />
-            <element signature="e#934#935#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_05DI/src/main/java/com/cui/service/impl/AccountService2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-          <folding>
-            <element signature="e#326#327#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_05DI/src/main/java/com/cui/service/impl/AccountService3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_05DI/src/main/java/com/cui/ui/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_05DI/src/main/java/com/cui/service/IAccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_05DI/src/main/resources/bean.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="96" column="38" selection-start-line="96" selection-start-column="38" selection-end-line="96" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/dao/IAccountDao.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01_eesy_05DI/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="17" selection-start-line="10" selection-start-column="3" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/repository/org/springframework/spring-context/5.0.2.RELEASE/spring-context-5.0.2.RELEASE.jar!/org/springframework/stereotype/Component.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/repository/org/springframework/spring-context/5.0.2.RELEASE/spring-context-5.0.2.RELEASE.jar!/org/springframework/stereotype/Repository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/service/IAccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/ui/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/dao/impl/AccountDao1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/dao/impl/AccountDao2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/resources/bean.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02_eesy_01anno_ioc/src/main/java/com/cui/service/impl/AccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02_eesy_01anno_ioc/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/dao/IAccountDao.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/dao/impl/AccountDao2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/service/IAccountService.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://E:/repository/org/springframework/spring-context/5.0.2.RELEASE/spring-context-5.0.2.RELEASE.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1116,37 +786,298 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/service/impl/AccountService.java">
+    <entry file="file://$PROJECT_DIR$/day02_eesy_03account_annoioc/src/main/resources/beans.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1301">
-          <caret line="63" column="35" lean-forward="true" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
+        <state relative-caret-position="435">
+          <caret line="15" column="74" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/resources/info.properties">
+    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/dao/IAccountDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/service/IAccountService.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/ui/Client.java">
+    <entry file="jar://E:/repository/org/springframework/spring-context/5.0.2.RELEASE/spring-context-5.0.2.RELEASE.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        <state relative-caret-position="-115">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/service/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/dao/impl/AccountDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/resources/jdbcConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/repository/org/springframework/spring-test/5.2.1.RELEASE/spring-test-5.2.1.RELEASE.jar!/org/springframework/test/context/ContextConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/config/JdbcConfiguraiton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/main/java/com/cui/config/SpringConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29">
-          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-=======
-        <state relative-caret-position="374">
-          <caret line="20" column="72" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="72" />
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
+        <state relative-caret-position="174">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/src/test/java/com/cui/AccountServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+          <folding>
+            <element signature="e#1401#1402#0" expanded="true" />
+            <element signature="e#1444#1445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_02account_xmlioc/src/test/java/com/cui/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
-            <element signature="e#841#842#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
+            <element signature="e#1181#1182#0" expanded="true" />
+            <element signature="e#1224#1225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="48" column="19" selection-start-line="11" selection-start-column="4" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://E:/repository/org/springframework/spring-test/5.0.2.RELEASE/spring-test-5.0.2.RELEASE.jar!/org/springframework/test/context/ContextConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-331">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/dao/IAccountDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/repository/commons-dbutils/commons-dbutils/1.4/commons-dbutils-1.4.jar!/org/apache/commons/dbutils/QueryRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-920">
+          <caret line="119" column="17" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/dao/impl/AccountDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_01account/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="47" column="19" selection-start-line="10" selection-start-column="4" selection-end-line="47" selection-end-column="19" />
+          <folding>
+            <element signature="n#properties#0;n#project#0;n#!!top" />
+            <element signature="n#dependencies#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/utils/ConnectUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/utils/TransactionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_02proxy/src/main/java/com/cui/proxy/IProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_02proxy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="n#properties#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_02proxy/src/main/java/com/cui/cglib/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_02proxy/src/main/java/com/cui/proxy/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_02proxy/src/main/java/com/cui/cglib/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_eesy_04bean/src/main/resources/bean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_eesy_04bean/src/main/java/com/cui/service/impl/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_eesy_04bean/src/main/java/com/cui/service/IAccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/factory/BeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/service/impl/AccountServiceImpl_old.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_01account/src/main/resources/bean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/service/IAccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_02proxy/src/main/java/com/cui/proxy/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_01account/src/test/java/com/cui/AccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <folding>
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03_eesy_01account/src/main/java/com/cui/service/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="47" column="51" lean-forward="true" selection-start-line="47" selection-start-column="51" selection-end-line="47" selection-end-column="51" />
+          <folding>
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1157,7 +1088,6 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>day01_eesy_01jdbc:war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1205,28 +1135,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-<<<<<<< HEAD
-          <last-edited>day02_eesy_04account_annoico_withoutxml</last-edited>
-=======
-          <last-edited>day01_eesy_01jdbc</last-edited>
->>>>>>> 8b186e66aee47f988d29a5d1ea2fa0faa036fab5
+          <last-edited>day03_eesy_02proxy</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
                 <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>

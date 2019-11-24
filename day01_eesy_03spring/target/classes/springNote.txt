@@ -1,0 +1,9 @@
+springIOC
+控制反转，主要的作用是解耦。
+1. 常见的webapp的三层架构，controller层使用new关键字生成service对象调用相应方法，
+    servier层使用new关键字生成dao对象调用相应方法。每一层的依赖关系都很严重，称为强耦合。
+2. 为了降低耦合，减少使用new关键字，可以使用Class.forName().newInstance()+类名的方式来生成对象。
+3. 为了进一步降低耦合，可以在配置文件中读取类名。
+4. applicationContext.xml中，使用<bean>标签，以键值对的形式保存需要的类。
+5. spring启动时，ApplicationContext容器，会自动加载<bean>标签里的类，并生成一个单例的对象。
+6. 使用调用ApplicationContext的getBean()方法，传入<bean>标签里配置的id，获取对象。

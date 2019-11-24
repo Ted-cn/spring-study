@@ -1,13 +1,6 @@
 package com.cui.config;
 
-import com.cui.dao.IAccountDao;
-import com.cui.dao.impl.AccountDao;
-import com.cui.service.IAccountService;
-import com.cui.service.impl.AccountService;
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.ComponentScan;
-import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.PropertySource;
+import org.springframework.context.annotation.*;
 
 /**
  * 该类是一个配置类，它的作用和bean.xml一样
@@ -29,15 +22,26 @@ import org.springframework.context.annotation.PropertySource;
  */
 @Configuration
 @ComponentScan("com.cui")
-@PropertySource(value = "classpath:info.properties")
+@PropertySource(value = "classpath:jdbcConfig.properties")
+@Import(JdbcConfiguraiton.class)
 public class SpringConfiguration {
-    @Bean
-    public IAccountService accountService() {
-        return new AccountService();
-    }
-
-    @Bean
-    public IAccountDao accountDao() {
-        return new AccountDao();
-    }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
