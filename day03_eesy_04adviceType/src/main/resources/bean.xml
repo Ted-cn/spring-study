@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop.xsd">
+    <!-- 配置SpringIOC，把service对象配置进来 -->
+    <bean id="accountService" class="com.cui.service.impl.AccountServiceImpl"></bean>
+
+    <!-- 配置Logger类 -->
+    <bean id="logger" class="com.cui.utils.Logger"></bean>
+
+    <!-- 配置AOP -->
+    <aop:config>
+        <!--
+             配置切入点表达式，id指定唯一标识。expression指定表达式内容
+             此标签写在<aop:aspect>标签内部，只能被当前切面使用。
+             此标签写在<aop:aspect>标签外部，可以能被所有切面使用。
+        -->
+        <aop:pointcut id="pt" expression="execution(* com.cui.service.impl.*.*(..))"></aop:pointcut>
+        <!-- 配置切面 -->
+        <aop:aspect id="logAdvice" ref="logger">
+            <!-- 配置前置通知，并且建立通知方法和切入点方法的关联
+            <aop:before method="beforePrintLog" pointcut-ref="pt"></aop:before>-->
+            <!-- 配置后置通知，并且建立通知方法和切入点方法的关联
+            <aop:after-returning method="afterReturningPrintLog" pointcut-ref="pt"></aop:after-returning>-->
+            <!-- 配置异置通知，并且建立通知方法和切入点方法的关联
+            <aop:after-throwing method="afterThrowingPrintLog" pointcut-ref="pt"></aop:after-throwing>-->
+            <!-- 配置最终通知，并且建立通知方法和切入点方法的关联
+            <aop:after method="afterPrintLog" pointcut-ref="pt"></aop:after>-->
+
+            <!-- 配置环绕通知 -->
+            <aop:around method="aroundPrintLog" pointcut-ref="pt"></aop:around>
+        </aop:aspect>
+    </aop:config>
+</beans>
+
+
+
+
+
+
+
+
+
+

@@ -12,6 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/day02_eesy_04account_annoico_withoutxml.iml" filepath="$PROJECT_DIR$/day02_eesy_04account_annoico_withoutxml/day02_eesy_04account_annoico_withoutxml.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03_eesy_01account/day03_eesy_01account.iml" filepath="$PROJECT_DIR$/day03_eesy_01account/day03_eesy_01account.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03_eesy_02proxy/day03_eesy_02proxy.iml" filepath="$PROJECT_DIR$/day03_eesy_02proxy/day03_eesy_02proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_eesy_03springAOP/day03_eesy_03springAOP.iml" filepath="$PROJECT_DIR$/day03_eesy_03springAOP/day03_eesy_03springAOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_eesy_04adviceType/day03_eesy_04adviceType.iml" filepath="$PROJECT_DIR$/day03_eesy_04adviceType/day03_eesy_04adviceType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_eesy_05annotationAOP/day03_eesy_05annotationAOP.iml" filepath="$PROJECT_DIR$/day03_eesy_05annotationAOP/day03_eesy_05annotationAOP.iml" />
     </modules>
   </component>
 </project>

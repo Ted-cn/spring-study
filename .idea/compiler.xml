@@ -16,6 +16,9 @@
         <module name="day02_eesy_04account_annoico_withoutxml" />
         <module name="day03_eesy_01account" />
         <module name="day03_eesy_02proxy" />
+        <module name="day03_eesy_03springAOP" />
+        <module name="day03_eesy_04adviceType" />
+        <module name="day03_eesy_05annotationAOP" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +32,9 @@
       <module name="day02_eesy_04account_annoico_withoutxml" target="1.8" />
       <module name="day03_eesy_01account" target="1.8" />
       <module name="day03_eesy_02proxy" target="1.8" />
+      <module name="day03_eesy_03springAOP" target="1.8" />
+      <module name="day03_eesy_04adviceType" target="1.8" />
+      <module name="day03_eesy_05annotationAOP" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
