@@ -15,6 +15,10 @@
       <module fileurl="file://$PROJECT_DIR$/day03_eesy_03springAOP/day03_eesy_03springAOP.iml" filepath="$PROJECT_DIR$/day03_eesy_03springAOP/day03_eesy_03springAOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03_eesy_04adviceType/day03_eesy_04adviceType.iml" filepath="$PROJECT_DIR$/day03_eesy_04adviceType/day03_eesy_04adviceType.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03_eesy_05annotationAOP/day03_eesy_05annotationAOP.iml" filepath="$PROJECT_DIR$/day03_eesy_05annotationAOP/day03_eesy_05annotationAOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_eesy_01jdbctemplate/day04_eesy_01jdbctemplate.iml" filepath="$PROJECT_DIR$/day04_eesy_01jdbctemplate/day04_eesy_01jdbctemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_eesy_04tx/day04_eesy_04tx.iml" filepath="$PROJECT_DIR$/day04_eesy_04tx/day04_eesy_04tx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_eesy_05tx_xml/day04_eesy_05tx_xml.iml" filepath="$PROJECT_DIR$/day04_eesy_05tx_xml/day04_eesy_05tx_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_eesy_06tx_anno/day04_eesy_06tx_anno.iml" filepath="$PROJECT_DIR$/day04_eesy_06tx_anno/day04_eesy_06tx_anno.iml" />
     </modules>
   </component>
 </project>

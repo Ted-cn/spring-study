@@ -19,6 +19,10 @@
         <option value="$PROJECT_DIR$/day03_eesy_03springAOP/pom.xml" />
         <option value="$PROJECT_DIR$/day03_eesy_04adviceType/pom.xml" />
         <option value="$PROJECT_DIR$/day03_eesy_05annotationAOP/pom.xml" />
+        <option value="$PROJECT_DIR$/day04_eesy_01jdbctemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/day04_eesy_04tx/pom.xml" />
+        <option value="$PROJECT_DIR$/day04_eesy_05tx_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/day04_eesy_06tx_anno/pom.xml" />
       </list>
     </option>
   </component>
