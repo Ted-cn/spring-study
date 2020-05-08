@@ -26,10 +26,10 @@
     -->
 
     <!-- bean的作用范围：scope属性
-        singleton：单例
-        prototype：多例
-        request：作用于web应用的请求范围
-        session：作用于web应用的会话范围
+        singleton：单例，在SpringIOC容器中仅存在一个Bean实例
+        prototype：多例，每次调用getBean()方法时都会返回一个新的实例
+        request：作用于web应用的请求范围，每次HTTP请求都会创建一个新的Bean
+        session：作用于web应用的会话范围，同一个HTTP Session共享一个Bean
         global-session：作用于集群环境的会话范围，当不是集群环境时，它就是session
     -->
     <!-- bean对象的生命周期
@@ -37,9 +37,9 @@
             出生：当容器创建时对象出生
             活着：只要容器还在，对象一起活着
             死亡：容器销毁，对象消亡
-            总结：单例对象的生命周期和窗口相同
+            总结：单例对象的生命周期和容器相同
         多例对象：
-            出生：当我们使用对象时spring框架为我们创建
+            出生：当们我们使用对象时spring框架为我创建
             活着：对象只要是在使用过程中就一直活着
             死亡：当对象长时间不用，且没有别的对象引用时，由JavaGC回收
     -->
